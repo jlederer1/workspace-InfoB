@@ -1,9 +1,7 @@
-AbstractTextEditor.Color.Background=89,94,4
-AbstractTextEditor.Color.FindScope=255,255,128
+AbstractTextEditor.Color.FindScope=255,128,255
 AbstractTextEditor.Color.SelectionBackground=255,255,128
-AbstractTextEditor.Color.SelectionForeground=0,0,0
-additionIndicationColor=128,255,255
-changeIndicationColor=255,0,0
-currentLineColor=89,94,4
-deletionIndicationColor=255,0,128
+AbstractTextEditor.Color.SelectionForeground=64,0,64
+currentLineColor=111,118,12
 eclipse.preferences.version=1
+lineNumberColor=0,128,0
+printMarginColor=0,0,64
