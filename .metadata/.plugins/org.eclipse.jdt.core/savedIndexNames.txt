@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Jakob\Downloads\UNI\UNI-Vorlesungen\Computer Science\InfoB\Practice\workspace-InfoB\.metadata\.plugins\org.eclipse.jdt.core
